@@ -1,2 +1,4 @@
 # Met_Office_Data
-Python script to pull met office data and post it to emoncms
+Python script to pull Met Office data and post it to emoncms.
+
+Dont forget to unzip the pytz folder.
